@@ -1,4 +1,4 @@
 git is a version control system.
 git is free software for users.
 this is anothor line.
-add some change add some things.
+add some change.
